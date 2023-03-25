@@ -1,0 +1,6 @@
+numpy
+pillow
+tk
+decord
+opencv-python
+tqdm
